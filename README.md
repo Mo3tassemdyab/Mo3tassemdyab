@@ -61,8 +61,15 @@ I am always seeking for every opportunity that can help me to improve my skills 
 </details>
 
 ### :fire: My Stats :
+<br>
 
+
+<div align="center">
+  
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mo3tassemdyab&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  
+</div>
+
 
 <div style="display: flex; justify-content: space-between;" align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mo3tassemdyab&theme=github_dark" alt="Repos per Language" style="width: 45%; margin-right: 10px;">
